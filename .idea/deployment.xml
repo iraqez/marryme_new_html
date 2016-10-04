@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" uploadOnCheckin="5ee8a23a-6e6d-4555-ab2e-b2aae980226b">
+    <serverData>
+      <paths name="marry_html">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/web" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="marry_html" />
+  </component>
+</project>
